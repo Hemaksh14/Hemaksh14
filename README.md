@@ -1,16 +1,14 @@
 <h1 align="center">Hey, I am Hemaksh Chaturvedi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/> </h1>
 <h3 align="center"></h3>
-
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)
 ![](https://komarev.com/ghpvc/?username=Hemaksh14)
 
 <!-- <div style="display: flex !important;">
 <div style="width: 50%;"> -->
-- 🔭 I’m currently working on improving my competitive programming skills.
-
+- 👨‍🎓 Currently pursuing Masters in Computer Science in: New York University
+- 🔭 Working on improving my competitive programming skills.
 - 🌱 I’m currently learning Quantitative Finance.
-
 - 💬 Ask me about **Data Analyis, Data Science, Machine Learning, Finance**
-
 - 🥅 2024 Goals: Contribute to Open Source projects.
 
 - 📫 Reach me at: **chaturvedihemaksh@gmail.com**
@@ -47,9 +45,10 @@
 </p>
 
 
-### Socials
+### 🤝🏻 Socials
 
-<p align="left"> <a href="https://www.github.com/Hemaksh14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hemaksh-chaturvedi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/hemaksh-chaturvedi/"><img src="https://img.shields.io/badge/Hemaksh-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:chaturvedihemaksh@gmail.com?subject=Hello%20Hemaksh"><img src="https://img.shields.io/badge/Hemaksh-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;</p>
 
 
  
