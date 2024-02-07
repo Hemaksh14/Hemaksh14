@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I am Hemaksh Chaturvedi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/> </h1>
+<!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png) -->
 <h3 align="center"></h3>
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)
+
 ![](https://komarev.com/ghpvc/?username=Hemaksh14)
 
 <!-- <div style="display: flex !important;">
@@ -10,11 +11,8 @@
 - 🌱 I’m currently learning Quantitative Finance.
 - 💬 Ask me about **Data Analyis, Data Science, Machine Learning, Finance**
 - 🥅 2024 Goals: Contribute to Open Source projects.
-
 - 📫 Reach me at: **chaturvedihemaksh@gmail.com**
-<!-- </div>
-<div style="width: 50%;"><img src="./developer.gif"/></div>
-</div> -->
+
  
 ### Skills
 
