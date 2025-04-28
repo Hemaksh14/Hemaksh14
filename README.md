@@ -9,8 +9,8 @@
 - 👨‍🎓 Currently pursuing Masters in Computer Science in: New York University
 - 🔭 Working on improving my competitive programming skills.
 - 🌱 I’m currently learning Quantitative Finance.
-- 💬 Ask me about **Data Analyis, Data Science, Machine Learning, Finance**
-- 🥅 2024 Goals: Contribute to Open Source projects.
+- 💬 Ask me about **Data Analyis, Data Science, Machine Learning, Finance, Software Development**
+- 🥅 2025 Goals: Contribute to Open Source projects.
 - 📫 Reach me at: **chaturvedihemaksh@gmail.com**
 - 👨🏼‍🎓 Portfolio Website: **https://hemaksh14.github.io/**
 
